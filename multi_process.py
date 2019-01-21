@@ -46,6 +46,7 @@ def normal():
 
 
 if __name__ == '__main__':
+    print('This is a revised version of multi_process.py')
     st = time.time()
     normal()
     st1 = time.time()
